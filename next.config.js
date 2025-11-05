@@ -1,3 +1,3 @@
 module.exports = {
-  basePath: "/itauagencias/minhasvantagens/mondly",
+  basePath: "/mondly",
 };

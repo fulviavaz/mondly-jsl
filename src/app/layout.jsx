@@ -18,11 +18,11 @@ export const metadata = {
   openGraph: {
     title: "Mondly By Pearson",
     description: "Aprenda idiomas com tecnologia e inovação.",
-    url: "https://parcerias.indico.net.br/itauagencias/minhasvantagens/mondly",
+    url: "/mondly",
     siteName: "Mondly By Pearson",
     images: [
       {
-        url: "/itauagencias/minhasvantagens/mondly/images/mondly-logo.png",
+        url: "/mondly/images/mondly-logo.png",
         width: 113,
         height: 40,
         alt: "Logo Mondly",
@@ -35,7 +35,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Mondly By Pearson",
     description: "Aprenda idiomas com tecnologia e inovação.",
-    images: ["https://parcerias.indico.net.br/itauagencias/minhasvantagens/mondly"],
+    images: ["/mondly"],
   },
 };
 
